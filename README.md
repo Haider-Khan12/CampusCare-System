@@ -1,3 +1,8 @@
+Project Backend:
+This is the Node.js/Express backend for the application, handling authentication, real-time messaging, and complaint management.
+Prerequisites:
+Node.js 
+MongoDB 
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
